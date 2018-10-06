@@ -1,0 +1,30 @@
+{
+  "name": "sdk-paynl",
+  "version": "1.0.3",
+  "description": "Paynl SDK",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "https": "^1.0.0",
+    "paynl-sdk": "^1.1.1",
+    "querystring": "^0.2.0",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/medve-dev/sdk-paynl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/medve-dev/sdk-paynl/issues"
+  },
+  "homepage": "https://github.com/medve-dev/sdk-paynl#readme"
+}
